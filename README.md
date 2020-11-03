@@ -1,7 +1,7 @@
 # Midterm-WEBPRO-B
-* _Anggara Yuda Pratama (0511184000008)_
-* _Irsyadhani Dwi Shubhi (0511184000022)_
-* _Brananda Denta Wira Pranata (0511184000143)_
+* _Anggara Yuda Pratama (05111840000008)_
+* _Irsyadhani Dwi Shubhi (05111840000022)_
+* _Brananda Denta Wira Pranata (05111840000143)_
 ----------------------------------------------------------------
 This repo created for submission of Web Programming Lecture
 
