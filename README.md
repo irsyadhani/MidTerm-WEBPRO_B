@@ -11,6 +11,7 @@ Article Forum Website using Framework Laravel (including homepage, register, log
 ## How To Run On Localhost
 - Run and open Apache on XAMPP or another app
 - Make database laravel in PHPMyadmin
+- Import SQL ![alt text](/SQL/article.sql)
 - Windows + R
 - write ```cmd``` then Enter
 - Write composer install
